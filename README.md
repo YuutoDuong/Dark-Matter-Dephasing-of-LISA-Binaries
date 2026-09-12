@@ -218,11 +218,11 @@ are in [`results_summary.pdf`](results_summary.pdf).
 
 ## Author
 
-Duong Ngoc Khoa — undergraduate physics research internship project.
+Duong Ngoc Khoa - undergraduate physics research internship project.
 Email: yuutoduong@gmail.com/ Institution: Phenikaa Institute for Advance Study
 
-Aaryan Chaulagain.
-<!-- TODO: add contact / institution / advisor line here if you'd like one -->
+Aaryan Chaulagain - independent researcher
+Email: chamlagainaaryan319@gmail.com
 
 ## License
 
