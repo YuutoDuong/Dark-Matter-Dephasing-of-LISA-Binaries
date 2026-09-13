@@ -12,7 +12,7 @@ merely detecting that *some* environment is present.
 > perfectly degenerate: detection does not imply attribution.
 
 <p align="center">
-  <img src="fig4_ellipse.png" width="480" alt="Collapsed joint error ellipse for LISA-EMRI">
+  <img src="figures/fig4_ellipse.png" width="480" alt="Collapsed joint error ellipse for LISA-EMRI">
 </p>
 
 ---
