@@ -226,5 +226,4 @@ Email: chamlagainaaryan319@gmail.com
 
 ## License
 
-<!-- TODO: pick a license before making the repo public — MIT is a common default for research
-code with no proprietary constraints. Delete this comment once chosen. -->
+MIT License.
