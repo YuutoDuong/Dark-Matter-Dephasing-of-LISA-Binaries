@@ -154,7 +154,7 @@ what the previous ones defined:
    every input against published values before any result is trusted.
 
 Full block-by-block documentation with every equation traced to its source is in
-[`code_documentation.pdf`](code_documentation.pdf).
+[`code_documentation.pdf`](code_doc.pdf).
 
 ## Validation
 
